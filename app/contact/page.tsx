@@ -23,7 +23,7 @@ const ContactPage = () => {
           </p>
           <div className='mt-6 sm:mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-2 sm:px-0'>
             <a
-              href='mailto:support@expensetracker-ai.com'
+              href='mailto:gokulrajbabu007@gmail.com'
               className='group relative overflow-hidden bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 hover:from-emerald-700 hover:via-green-600 hover:to-teal-600 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-semibold shadow-2xl hover:shadow-3xl transition-all duration-200 transform hover:-translate-y-0.5'
             >
               <span className='relative z-10 flex items-center justify-center gap-2'>
@@ -79,11 +79,11 @@ const ContactPage = () => {
                   respond within 24 hours.
                 </p>
                 <a
-                  href='mailto:support@expensetracker-ai.com'
+                  href='mailto:gokulrajbabu007@gmail.com'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base break-all sm:break-normal'
                 >
                   <span className='hidden sm:inline'>
-                    support@expensetracker-ai.com
+                    gokulrajbabu007@gmail.com
                   </span>
                   <span className='sm:hidden'>Email Us</span>
                   <span className='text-sm'>→</span>
@@ -105,10 +105,10 @@ const ContactPage = () => {
                   with urgent matters.
                 </p>
                 <a
-                  href='tel:+11234567890'
+                  href='tel:+918148305038'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base'
                 >
-                  +1 (123) 456-7890
+                  +91 8148305038
                   <span className='text-sm'>→</span>
                 </a>
               </div>
@@ -128,9 +128,7 @@ const ContactPage = () => {
                   partnership discussions.
                 </p>
                 <div className='text-emerald-600 dark:text-emerald-400 font-medium text-sm sm:text-base'>
-                  123 AI Innovation St
-                  <br />
-                  Tech City, USA
+                  chennai tamilnadu india
                 </div>
               </div>
             </div>
